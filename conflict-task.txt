@@ -1,1 +1,1 @@
-Change from repository B
+Change from repository A and B combined
